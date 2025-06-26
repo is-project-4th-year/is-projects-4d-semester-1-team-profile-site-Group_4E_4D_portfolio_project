@@ -18,6 +18,7 @@ Also was a refresher on Git commands innit
 ### Sweeeny
 
 ### Natalia
+I have learnt how to do pull requests and to smoothly solve merge conflicts.
 
 ### Daisy
 \end{document}
